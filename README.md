@@ -8,13 +8,13 @@
   <br/><br/>
 
 <p>
-<a href="mailto:snowland.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=snowland.dev&logoColor=white"/></a>
-<a href="https://twitter.com/snowflake597" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=snowflake597&logoColor=white"/></a>
+<a href="mailto:snowland.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/snowland.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/snowflake597" target="_blank"><img src="https://img.shields.io/badge/snowflake597-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
 
 <br/><br/><br/><br/><br/>
   
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Snow0406&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://raw.githubusercontent.com/Snow0406/github-stats-transparent/output/generated/languages.svg" width="48%" height="10%"/>
+  <img src="https://raw.githubusercontent.com/Snow0406/github-stats-transparent/output/generated/languages.svg" width="48%" />
 </p>
