@@ -10,7 +10,7 @@
 <a href="mailto:snowland.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/snowland.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/snowflake597" target="_blank"><img src="https://img.shields.io/badge/snowflake597-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 
-  <br/><br/>
+  <br/>
   </p>
 
 #### 🪄 Skills
