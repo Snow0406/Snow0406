@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=⛄️%20Snow%20Github&animation=fadeIn&fontSize=28&fontAlignY=35&fontAlign=50&height=150)
-![image jpg](https://github.com/Snow0406/Snow0406/assets/87596507/5196def9-fb91-49fc-a44c-34952e4a661e)
+
+<img src="https://github.com/Snow0406/Snow0406/assets/87596507/5196def9-fb91-49fc-a44c-34952e4a661e" width="40%" />
 
 <p>
 <a href="mailto:snowland.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/snowland.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
