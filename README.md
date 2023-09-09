@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=⛄️%20Snow%20Github&animation=fadeIn&fontSize=28&fontAlignY=35&fontAlign=50&height=150)
 
 <p>
-<img src="https://github.com/Snow0406/Snow0406/assets/87596507/5196def9-fb91-49fc-a44c-34952e4a661e" width="49.2%" />
+<img src="https://github.com/Snow0406/Snow0406/assets/87596507/5196def9-fb91-49fc-a44c-34952e4a661e" width="40%" />
     👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
   I have experience 7 years of Android development and 2 years of iOS development.<br/>
   At present, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
