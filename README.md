@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=⛄️%20Snow%20Github&animation=fadeIn&fontSize=35&fontAlignY=35&fontAlign=50&height=200)
+<img src ="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=⛄️%20Snow%20Github&animation=fadeIn&fontSize=35&fontAlignY=35&fontAlign=50&height=200">
 
  <p>
  <img src="https://github.com/Snow0406/Snow0406/assets/87596507/5196def9-fb91-49fc-a44c-34952e4a661e" width="49.2%" align="left" />
@@ -37,3 +37,5 @@
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Snow0406&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer"/></a>
