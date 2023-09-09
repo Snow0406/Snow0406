@@ -14,6 +14,6 @@
 <br/>
   
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Snow0406&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="49.2%" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Snow0406&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="49.2%" align="left" height="270px" />
   <img src="https://raw.githubusercontent.com/Snow0406/github-stats-transparent/output/generated/languages.svg" width="49.2%" align="right" />
 </p>
