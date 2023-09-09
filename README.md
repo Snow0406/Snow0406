@@ -2,7 +2,7 @@
 
  <p>
  <img src="https://github.com/Snow0406/Snow0406/assets/87596507/5196def9-fb91-49fc-a44c-34952e4a661e" width="49.2%" align="left" />
-👋&nbsp; Hi there! I'm <b>high school student.</b><br/>
+  👋&nbsp;Hi there! I'm <b>high school student.</b><br/>
   I am studying Unity, Unreal Engine and any other languages. 🚀<br/><br/>
   I like game, animation and illustration. ✨
   <br/>
