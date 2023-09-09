@@ -7,6 +7,12 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Snow0406&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="49.2%" />
   <img src="https://raw.githubusercontent.com/Snow0406/github-stats-transparent/output/generated/languages.svg" width="49.2%" /
+</a>    
+    Hi there! I'm high school student.
+    I am studying Unity and Unreal Engine.
+    
+    I am very active, I like to exercise and meet people.🦾🥂  
+    My dream is to create the best game in the world.😆
+<br/>
 
-</a>
 </div>
