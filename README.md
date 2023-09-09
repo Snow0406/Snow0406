@@ -19,4 +19,4 @@
   <img src="https://raw.githubusercontent.com/Snow0406/github-stats-transparent/output/generated/languages.svg" width="48%" />
 </p>
 
-[![Snow's github activity graph](https://activity-graph.herokuapp.com/graph?username=Snow04060&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Snow04060&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
