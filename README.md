@@ -8,8 +8,8 @@
   <br/><br/>
 
 <p>
-<a href="mailto:snowland.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/snowflake597" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:snowland.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=snowland.dev: Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/snowflake597" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=snowflake597: Twitter&logoColor=white"/></a>
 </p>
 
 <br/><br/><br/><br/><br/>
