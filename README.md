@@ -4,6 +4,6 @@
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Snow0406&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="49.2%" />
-  <img src="https://raw.githubusercontent.com/Snow0406/github-stats-transparent/output/generated/languages.svg" width="49.2%" /
+  <img src="https://raw.githubusercontent.com/Snow0406/github-stats-transparent/output/generated/languages.svg" width="40%" /
 
 </a>
