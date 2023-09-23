@@ -6,17 +6,15 @@
    I am studying Unity, Unreal Engine and any other languages.<br/>
    I like game, animation and illustration. ✨
   <br/>
-  <!--
 <a href="mailto:snowland.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/snowland.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/snowflake597" target="_blank"><img src="https://img.shields.io/badge/snowflake597-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
--->
   </p>
 
 ### 🪄 Skills
  <p>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> 
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-<img alt="Csharp" src="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
  </p>
