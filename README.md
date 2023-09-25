@@ -29,6 +29,6 @@
   <img src="https://raw.githubusercontent.com/Snow0406/github-stats-transparent/output/generated/languages.svg" width="48%" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Snow0406&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Snow0406&theme=tokyonight&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer"/></a>
