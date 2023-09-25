@@ -5,9 +5,6 @@
   👋 Hi there! I'm <b>high school student.</b><br/>
    I am studying Unity, Unreal Engine and any other languages.<br/>
    I like game, animation and illustration. ✨
-  <br/>
-<a href="mailto:snowland.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/snowflake597" target="_blank"><img src="https://img.shields.io/badge/snowflake597-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   </p>
 
 ### 🪄 Skills
