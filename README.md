@@ -6,12 +6,6 @@
 
    <div align="center">
      
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&labelColor=black&logo=csharp&logoColor=512BD4)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-   </div>
    </div>
 
 <br>
