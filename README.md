@@ -13,7 +13,7 @@
 
 ```js
 const Snow = {
-    age: "17",
+    age: "19",
     work: "Game Developer (Hope)",
     contact: "snowland.dev@gmail.com",
     main_tech_stack: ["C#", "C++", "Javascript"], // I can do just about anything
