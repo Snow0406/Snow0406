@@ -16,8 +16,8 @@ const Snow = {
     age: "19",
     work: "Game Developer (Hope)",
     contact: "snowland.dev@gmail.com",
-    main_tech_stack: ["C#", "C++", "Javascript"], // I can do just about anything
-    learning: ["Unreal", "Unity"],
+    main_tech_stack: ["C++", "Javascript"], // I can do just about anything
+    learning: ["Unreal", "Unity", "C#"],
 };
 ```
 
