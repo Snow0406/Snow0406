@@ -17,7 +17,7 @@ const Snow = {
     work: "Game Developer (Hope)",
     contact: "snowland.dev@gmail.com",
     main_tech_stack: ["C++", "Javascript"], // I can do just about anything
-    learning: ["Unreal", "Unity", "C#"],
+    learning: ["Unreal", "Unity", "C#", "React"],
 };
 ```
 
