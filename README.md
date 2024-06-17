@@ -5,14 +5,12 @@
  <img src="https://github.com/Snow0406/Snow0406/assets/87596507/5196def9-fb91-49fc-a44c-34952e4a661e" width="60%" align="center" />
  -->
   </div>
-
    <div align="center">
-     
    </div>
-
+<!--
 <br>
 <br>
-
+-->
 ```js
 const Snow = {
     age: "19",
