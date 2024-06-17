@@ -1,8 +1,10 @@
   <div align="center">
 <img src ="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=⛄️%20Snow%20Github&animation=fadeIn&fontSize=35&fontAlignY=35&fontAlign=50&height=200">
 <p>
+  /*
  <img src="https://github.com/Snow0406/Snow0406/assets/87596507/5196def9-fb91-49fc-a44c-34952e4a661e" width="60%" align="center" />
- </div>
+ */
+  </div>
 
    <div align="center">
      
