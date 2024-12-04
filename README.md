@@ -24,7 +24,7 @@ const Snow = {
 
 <p>
  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Snow0406&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"  height="192px" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Snow0406&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"  height="192px" width="50%" align="center" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer"/>
