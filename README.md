@@ -1,30 +1,16 @@
-  <div align="center">
-<img src ="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=⛄️%20Snow%20Github&animation=fadeIn&fontSize=35&fontAlignY=35&fontAlign=50&height=200">
-<p>
-  <!--
- <img src="https://github.com/Snow0406/Snow0406/assets/87596507/5196def9-fb91-49fc-a44c-34952e4a661e" width="60%" align="center" />
- -->
-  </div>
-   <div align="center">
-   </div>
-<!--
-<br>
-<br>
--->
+### Hi there 👋
 
-```js
-const Snow = {
-    age: "19",
-    work: "Game Developer (Hope)",
-    contact: "snowland.dev@gmail.com",
-    main_tech_stack: ["C++", "Javascript"], // I can do just about anything
-    learning: ["Unreal", "Unity", "C#", "React"],
-};
-```
+<img src="https://github-readme-stats.vercel.app/api?username=Snow0406&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="40%" align="right" />
 
-<p>
- <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Snow0406&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"  height="192px" width="50%" align="center" />
-</p>
+- 🛠 &nbsp; I’m currently working with Unity, C++, C#, JS, TS, etc.
+- 🚀 &nbsp; I’m currently exploring Unreal, React, etc.
+- ❤️ &nbsp; Anime, Illust, Game, Coding, etc.
+- 💬 &nbsp; Ask me anything [here](https://github.com/Snow0406/Snow0406/issues/2)!
+- ✨ &nbsp; Currently working on: Rene, Marigold
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer"/>
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=winteryuki" width="40%" align="right" />
