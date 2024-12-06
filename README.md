@@ -13,7 +13,7 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=winteryuki" width="40%" align="right" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/Lachee/discord-rpc-unity/issues/15#issuecomment-2453046351) in [Lachee/discord-rpc-unity](https://github.com/Lachee/discord-rpc-unity)
-2. 🎉 Merged PR [#1](https://github.com/Snow0406/Solved_baekjoon/pull/1) in [Snow0406/Solved_baekjoon](https://github.com/Snow0406/Solved_baekjoon)
-3. 💪 Opened PR [#1](https://github.com/Snow0406/Solved_baekjoon/pull/1) in [Snow0406/Solved_baekjoon](https://github.com/Snow0406/Solved_baekjoon)
+1. ❗ Opened issue [#2](https://github.com/Snow0406/Snow0406/issues/2) in [Snow0406/Snow0406](https://github.com/Snow0406/Snow0406)
+2. 🗣 Commented on [#15](https://github.com/Lachee/discord-rpc-unity/issues/15#issuecomment-2453046351) in [Lachee/discord-rpc-unity](https://github.com/Lachee/discord-rpc-unity)
+3. 🎉 Merged PR [#1](https://github.com/Snow0406/Solved_baekjoon/pull/1) in [Snow0406/Solved_baekjoon](https://github.com/Snow0406/Solved_baekjoon)
 <!--END_SECTION:activity-->
