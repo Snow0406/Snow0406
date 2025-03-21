@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 - 🛠 &nbsp; I’m currently working with Unity, C++, C#, TS.
-- 🚀 &nbsp; I’m currently exploring Unreal, React, etc.
+- 🚀 &nbsp; I’m currently exploring Unreal, Astro, etc.
 - ❤️ &nbsp; Anime, Illust, Game, Coding, etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/Snow0406/Snow0406/issues/2)!
-- ✨ &nbsp; Currently working on: Rene, Marigold
+- ✨ &nbsp; Currently working on: Rene
 
-<div align="mid">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snow0406&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="35%" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=winteryuki" width="30%" />
-</div>
+[![wakatime](https://wakatime.com/badge/user/7e384a52-c1f2-4faa-8b0a-6b45e467229e.svg)](https://wakatime.com/@hy)
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=winteryuki)](https://solved.ac/winteryuki)
