@@ -1,4 +1,4 @@
-<img width="400" alt="Artwork By aakin5349" src="https://github.com/user-attachments/assets/404558fe-0fe0-4124-96d5-93fb9fc2c2c7" />
+<img width="300" alt="Artwork By aakin5349" src="https://github.com/user-attachments/assets/404558fe-0fe0-4124-96d5-93fb9fc2c2c7" />
 
 ### Hi there 👋
 
