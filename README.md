@@ -1,4 +1,4 @@
-### Game Developer
+**Game Developer**
 
 `Email` [snow@hyuki.dev](mailto:snow@hyuki.dev) <br/>
 `About` [hyuki.dev/about](https://hyuki.dev/about/) </br>
